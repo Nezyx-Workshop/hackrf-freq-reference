@@ -1,5 +1,0 @@
-123.450
-Mode: AM
-Tone: CSQ
-Tag: Business
-Description: Flight Test/Unofficial Air-to-Air

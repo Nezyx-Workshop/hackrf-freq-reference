@@ -1,0 +1,5 @@
+122.200
+Mode: AM
+Tone: CSQ
+Tag: Aircraft
+Description: Flight Watch Weather

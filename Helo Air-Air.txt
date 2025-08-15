@@ -1,0 +1,5 @@
+123.025
+Mode: AM
+Tone: CSQ
+Tag: Aircraft
+Description: Helicopter Air-to-Air

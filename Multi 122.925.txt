@@ -1,5 +1,0 @@
-122.925
-Mode: AM
-Tone: CSQ
-Tag: Aircraft
-Description: Multicom - Special Use, Natural resource management

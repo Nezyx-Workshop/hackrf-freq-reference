@@ -1,5 +1,0 @@
-135.950
-Mode: AM
-Tone: CSQ
-Tag: Federal
-Description: FAA Flight Inspection

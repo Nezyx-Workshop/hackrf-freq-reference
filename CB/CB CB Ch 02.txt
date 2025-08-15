@@ -1,0 +1,6 @@
+26.975
+Mode: AM
+RRType: M
+Tone: CSQ
+Tag: Other
+Description: Channel 02

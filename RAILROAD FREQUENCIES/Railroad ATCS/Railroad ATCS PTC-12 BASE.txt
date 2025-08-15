@@ -1,0 +1,5 @@
+220.1125
+Mode: Telm
+RRType: B
+Tag: Data
+Description: Base - 12

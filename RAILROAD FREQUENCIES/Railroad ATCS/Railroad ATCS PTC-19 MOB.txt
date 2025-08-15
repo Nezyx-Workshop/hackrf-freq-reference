@@ -1,0 +1,5 @@
+221.7975
+Mode: Telm
+RRType: M
+Tag: Data
+Description: Mobile - 19

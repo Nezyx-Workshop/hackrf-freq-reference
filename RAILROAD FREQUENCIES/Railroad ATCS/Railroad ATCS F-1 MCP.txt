@@ -1,0 +1,5 @@
+896.8875
+Mode: Telm
+RRType: M
+Tag: Data
+Description: ATCS F-1 Mobile Control Point [UNION PACIFIC]

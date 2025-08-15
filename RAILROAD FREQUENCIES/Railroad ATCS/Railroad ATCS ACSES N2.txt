@@ -1,0 +1,5 @@
+220.26875
+Mode: Telm
+RRType: BM
+Tag: Data
+Description: ACSES North of New Haven

@@ -1,0 +1,5 @@
+936.9875
+Mode: Telm
+RRType: B
+Tag: Data
+Description: ATCS F-6 Base Control Point [SP]

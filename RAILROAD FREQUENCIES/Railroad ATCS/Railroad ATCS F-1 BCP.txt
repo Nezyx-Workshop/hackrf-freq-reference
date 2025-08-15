@@ -1,0 +1,5 @@
+935.8875
+Mode: Telm
+RRType: B
+Tag: Data
+Description: ATCS F1 Base Control Point [UNION PACIFIC]

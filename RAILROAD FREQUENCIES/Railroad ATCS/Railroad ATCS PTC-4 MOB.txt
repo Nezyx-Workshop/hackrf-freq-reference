@@ -1,0 +1,5 @@
+221.1425
+Mode: Telm
+RRType: M
+Tag: Data
+Description: Mobile - 04

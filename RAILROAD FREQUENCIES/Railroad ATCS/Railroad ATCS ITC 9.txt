@@ -1,0 +1,5 @@
+221.1375
+Mode: Telm
+RRType: BM
+Tag: Data
+Description: ITC 220 System

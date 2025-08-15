@@ -1,0 +1,5 @@
+935.9375
+Mode: Telm
+RRType: B
+Tag: Data
+Description: ATCS F-2 Base Control Point [CSX]

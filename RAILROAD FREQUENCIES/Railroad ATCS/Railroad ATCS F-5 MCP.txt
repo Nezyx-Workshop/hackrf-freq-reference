@@ -1,0 +1,5 @@
+897.9375
+Mode: Telm
+RRType: M
+Tag: Data
+Description: ATCS F-5 Mobile Control Point [NS]

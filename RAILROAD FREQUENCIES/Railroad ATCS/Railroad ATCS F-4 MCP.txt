@@ -1,0 +1,5 @@
+897.8875
+Mode: Telm
+RRType: M
+Tag: Data
+Description: ATCS F-4 Mobile Control Point [BNSF]

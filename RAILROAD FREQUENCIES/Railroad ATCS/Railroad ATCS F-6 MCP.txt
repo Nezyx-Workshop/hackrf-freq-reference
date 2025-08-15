@@ -1,0 +1,5 @@
+897.9875
+Mode: Telm
+RRType: M
+Tag: Data
+Description: ATCS F-6 Mobile Control Point [SP]

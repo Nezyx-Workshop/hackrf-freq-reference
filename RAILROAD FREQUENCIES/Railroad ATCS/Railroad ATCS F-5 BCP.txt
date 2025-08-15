@@ -1,0 +1,5 @@
+936.9375
+Mode: Telm
+RRType: B
+Tag: Data
+Description: ATCS F-5 Base Control Point [NS]

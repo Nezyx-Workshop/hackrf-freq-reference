@@ -1,0 +1,5 @@
+123.500
+Mode: AM
+Tone: CSQ
+Tag: Business
+Description: Aviation Support

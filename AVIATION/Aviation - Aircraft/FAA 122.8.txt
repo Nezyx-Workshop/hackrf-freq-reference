@@ -1,0 +1,5 @@
+122.800
+Mode: AM
+Tone: CSQ
+Tag: Aircraft
+Description: Unicom

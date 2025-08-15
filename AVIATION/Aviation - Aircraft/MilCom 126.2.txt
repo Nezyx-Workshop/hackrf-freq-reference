@@ -1,0 +1,5 @@
+126.200
+Mode: AM
+Tone: CSQ
+Tag: Aircraft
+Description: Military Common (advisory)

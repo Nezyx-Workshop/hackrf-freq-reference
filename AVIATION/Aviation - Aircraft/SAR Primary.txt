@@ -1,0 +1,5 @@
+123.100
+Mode: AM
+Tone: CSQ
+Tag: Aircraft
+Description: Search and Rescue primary, ATC for special events secondary

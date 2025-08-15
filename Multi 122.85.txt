@@ -1,5 +1,0 @@
-122.850
-Mode: AM
-Tone: CSQ
-Tag: Aircraft
-Description: Multicom, Aviation Support

@@ -1,5 +1,0 @@
-122.950
-Mode: AM
-Tone: CSQ
-Tag: Aircraft
-Description: Unicom - Controlled Airports

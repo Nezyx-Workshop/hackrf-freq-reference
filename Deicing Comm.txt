@@ -1,5 +1,0 @@
-129.525
-Mode: AM
-Tone: CSQ
-Tag: Business
-Description: Deicing Common

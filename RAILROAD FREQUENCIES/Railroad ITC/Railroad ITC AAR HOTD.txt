@@ -1,0 +1,5 @@
+452.9375
+Mode: Telm
+RRType: M
+Tag: Data
+Description: Head of Train Telemetry

@@ -1,0 +1,5 @@
+44.580
+Mode: Telm
+RRType: BM
+Tag: Data
+Description: BNSF Hy-rail Limits Compliance System

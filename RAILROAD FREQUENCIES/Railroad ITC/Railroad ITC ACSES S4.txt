@@ -1,0 +1,5 @@
+217.050
+Mode: FM
+RRType: BM
+Tag: Data
+Description: ACSES South of New Haven

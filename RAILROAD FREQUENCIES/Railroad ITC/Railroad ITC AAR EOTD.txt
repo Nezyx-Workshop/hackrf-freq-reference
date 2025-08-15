@@ -1,0 +1,5 @@
+457.9375
+Mode: Telm
+RRType: M
+Tag: Data
+Description: End of Train Telemetry

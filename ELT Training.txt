@@ -1,5 +1,0 @@
-121.775
-Mode: AM
-Tone: CSQ
-Tag: Aircraft
-Description: Emergency Locator Transmitter (ELT) Training Beacons

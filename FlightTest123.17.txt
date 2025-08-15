@@ -1,5 +1,0 @@
-123.175
-Mode: AM
-Tone: CSQ
-Tag: Business
-Description: Flight Test itinerant

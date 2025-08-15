@@ -1,0 +1,5 @@
+220.7575
+Mode: Telm
+RRType: B
+Tag: Data
+Description: Base - 09

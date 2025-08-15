@@ -1,0 +1,5 @@
+221.25625
+Mode: Telm
+RRType: BM
+Tag: Data
+Description: ACSES North of New Haven

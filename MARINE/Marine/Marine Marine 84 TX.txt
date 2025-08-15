@@ -1,0 +1,5 @@
+157.225
+Mode: FM
+RRType: M
+Tag: Other
+Description: 84TX - Ship/shore (telephone)

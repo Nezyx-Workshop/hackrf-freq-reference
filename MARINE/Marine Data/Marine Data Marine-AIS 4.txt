@@ -1,0 +1,5 @@
+162.0125
+Mode: Telm
+RRType: B
+Tag: Data
+Description: Automatic Identification System 4 - Shore

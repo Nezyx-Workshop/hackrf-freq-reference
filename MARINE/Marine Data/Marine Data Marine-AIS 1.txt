@@ -1,0 +1,5 @@
+161.975
+Mode: Telm
+RRType: M
+Tag: Data
+Description: Automatic Identification System 1

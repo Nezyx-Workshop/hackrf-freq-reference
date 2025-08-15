@@ -1,0 +1,5 @@
+161.825
+Mode: FM
+RRType: B
+Tag: Other
+Description: 84RX - Ship/shore (telephone)

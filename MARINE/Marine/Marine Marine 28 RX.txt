@@ -1,0 +1,5 @@
+162.000
+Mode: FM
+RRType: B
+Tag: Transportation
+Description: 28RX - Marine Operator

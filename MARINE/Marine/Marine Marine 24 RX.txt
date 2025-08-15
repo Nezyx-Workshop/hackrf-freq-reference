@@ -1,0 +1,5 @@
+161.800
+Mode: FM
+RRType: B
+Tag: Transportation
+Description: 24RX - Marine Operator

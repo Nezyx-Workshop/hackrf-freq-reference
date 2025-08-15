@@ -1,0 +1,5 @@
+217.025
+Mode: Telm
+RRType: BM
+Tag: Data
+Description: ACSES South of New Haven

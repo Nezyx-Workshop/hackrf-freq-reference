@@ -1,0 +1,7 @@
+Frequency: 162.400 MHz
+Tone: CSQ
+Alpha Tag: NWS 162.400
+Description: Weather Radio 162.400
+Mode: FM
+Tag: Federal
+Service: National Weather Service

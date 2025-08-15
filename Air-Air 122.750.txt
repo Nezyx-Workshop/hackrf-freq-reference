@@ -1,5 +1,0 @@
-122.750
-Mode: AM
-Tone: CSQ
-Tag: Aircraft
-Description: Aircraft Air-to-Air

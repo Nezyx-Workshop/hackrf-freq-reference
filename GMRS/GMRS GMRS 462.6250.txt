@@ -1,0 +1,5 @@
+462.625
+Mode: FM
+RRType: RM
+Tag: Other
+Description: 462.6250 Simplex/Repeater

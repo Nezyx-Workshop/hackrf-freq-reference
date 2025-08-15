@@ -1,0 +1,8 @@
+437.800
+Input: 145.990
+Mode: FM
+RRType: RM
+Tone: CSQ
+ToneIn: 67.0 PL
+Tag: Ham
+Description: Cross-band Repeater

@@ -1,0 +1,5 @@
+145.825
+Mode: Telm
+RRType: BM
+Tag: Ham
+Description: VHF Packet

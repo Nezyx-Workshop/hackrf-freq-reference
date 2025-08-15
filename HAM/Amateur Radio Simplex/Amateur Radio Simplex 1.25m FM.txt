@@ -1,0 +1,5 @@
+223.500
+Mode: FM
+RRType: BM
+Tag: Ham
+Description: 1.25m FM Simplex Calling

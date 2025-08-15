@@ -1,0 +1,6 @@
+145.800
+Input: 144.490
+Mode: FM
+RRType: RM
+Tag: Ham
+Description: Voice Region 2-3

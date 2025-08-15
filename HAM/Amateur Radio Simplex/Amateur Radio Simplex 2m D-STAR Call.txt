@@ -1,0 +1,5 @@
+145.670
+Mode: D-STAR
+RRType: BM
+Tag: Ham
+Description: 2m D-STAR Calling

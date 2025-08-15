@@ -1,0 +1,5 @@
+50.125
+Mode: USB
+RRType: BM
+Tag: Ham
+Description: 6m SSB Calling

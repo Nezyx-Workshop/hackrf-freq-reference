@@ -1,0 +1,5 @@
+462.6625
+Mode: FM
+RRType: M
+Tag: Other
+Description: 462.6625 Simplex 5-Watt only

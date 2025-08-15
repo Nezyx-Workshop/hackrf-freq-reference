@@ -1,0 +1,5 @@
+467.5875
+Mode: FMN
+RRType: M
+Tag: Other
+Description: Channel 9

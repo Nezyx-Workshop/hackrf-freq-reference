@@ -1,0 +1,5 @@
+144.200
+Mode: USB
+RRType: BM
+Tag: Ham
+Description: 2m SSB Calling

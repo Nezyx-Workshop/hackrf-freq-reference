@@ -1,0 +1,5 @@
+2304.100
+Mode: USB
+RRType: BM
+Tag: Ham
+Description: 13cm SSB/CW Simplex Calling

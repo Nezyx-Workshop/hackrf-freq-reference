@@ -1,0 +1,5 @@
+927.500
+Mode: FMN
+RRType: BM
+Tag: Ham
+Description: 33cm FM Simplex Calling

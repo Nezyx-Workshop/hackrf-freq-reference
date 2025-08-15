@@ -1,0 +1,5 @@
+467.6125
+Mode: FMN
+RRType: M
+Tag: Other
+Description: Channel 10

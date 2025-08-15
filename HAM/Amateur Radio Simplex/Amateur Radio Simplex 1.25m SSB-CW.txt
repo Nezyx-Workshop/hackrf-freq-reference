@@ -1,0 +1,5 @@
+222.100
+Mode: USB
+RRType: BM
+Tag: Ham
+Description: 1.25m SSB & CW Calling

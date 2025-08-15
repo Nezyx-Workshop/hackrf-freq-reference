@@ -1,0 +1,5 @@
+467.6375
+Mode: FMN
+RRType: M
+Tag: Other
+Description: Channel 11

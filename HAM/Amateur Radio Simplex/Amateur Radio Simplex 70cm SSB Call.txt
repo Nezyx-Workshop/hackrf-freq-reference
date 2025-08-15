@@ -1,0 +1,5 @@
+432.100
+Mode: USB
+RRType: BM
+Tag: Ham
+Description: 70cm SSB Calling

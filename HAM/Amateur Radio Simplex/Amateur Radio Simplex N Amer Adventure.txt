@@ -1,0 +1,5 @@
+146.580
+Mode: FM
+RRType: BM
+Tag: Ham
+Description: North American Adventure (Alt to 144.410 & 146.520)

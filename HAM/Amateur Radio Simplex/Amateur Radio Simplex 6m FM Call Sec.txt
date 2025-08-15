@@ -1,0 +1,5 @@
+52.540
+Mode: FM
+RRType: BM
+Tag: Ham
+Description: 6m FM Secondary Calling

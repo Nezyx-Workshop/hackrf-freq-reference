@@ -1,0 +1,5 @@
+144.410
+Mode: FM
+RRType: BM
+Tag: Ham
+Description: US Summits On The Air (SOTA)

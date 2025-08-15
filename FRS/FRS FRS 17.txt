@@ -1,0 +1,5 @@
+462.600
+Mode: FMN
+RRType: M
+Tag: Other
+Description: Channel 17

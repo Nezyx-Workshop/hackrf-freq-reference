@@ -1,0 +1,5 @@
+123.200
+Mode: AM
+Tone: CSQ
+Tag: Business
+Description: Flight Test
